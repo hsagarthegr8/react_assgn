@@ -6,7 +6,9 @@ class OnePlus extends Component {
         this.state = {  }
     }
     render() { 
-        return (  );
+        return ( 
+            <h1>OnePlus</h1>
+         );
     }
 }
  

@@ -6,7 +6,9 @@ class Mi extends Component {
         this.state = {  }
     }
     render() { 
-        return (  );
+        return ( 
+            <h1>Mi</h1>
+         );
     }
 }
  

@@ -6,7 +6,9 @@ class Asus extends Component {
         this.state = {  }
     }
     render() { 
-        return (  );
+        return ( 
+            <h1>Asus</h1>
+         );
     }
 }
  
