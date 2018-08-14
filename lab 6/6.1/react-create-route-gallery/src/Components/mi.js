@@ -17,7 +17,7 @@ class Mi extends Component {
         })
         return ( 
             <div>
-            <h3>mi1</h3>
+            <h3>Mi</h3>
             {images}
             </div>
          );

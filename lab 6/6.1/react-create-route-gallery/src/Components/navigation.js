@@ -18,6 +18,7 @@ const Nav = () => {
                     </li>
                 </ul>
             </nav>
+            <hr />
         </div>
     )
 }
